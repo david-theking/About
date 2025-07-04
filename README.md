@@ -21,4 +21,10 @@ Here are some of my recent case studies which was given as a project at Digital 
     - Skills: Joins, aggregations, subqueries, business logic
     - Outcome: Strategic insights on sales, customer value, and shipping efficiency
 - **Repository Link**:
-  
+
+
+## 📫 Contact
+
+- **Email:** davidezekiel182@gmail.com  
+- **LinkedIn:** [www.linkedin.com/in/adurasanmi-david-ezekiel]
+
