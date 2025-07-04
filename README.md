@@ -26,5 +26,5 @@ Here are some of my recent case studies which was given as a project at Digital 
 ## 📫 Contact
 
 - **Email:** davidezekiel182@gmail.com  
-- **LinkedIn:** [www.linkedin.com/in/adurasanmi-david-ezekiel]
+- **LinkedIn:** [LinkedIn](www.linkedin.com/in/adurasanmi-david-ezekiel)
 
