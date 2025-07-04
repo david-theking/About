@@ -13,7 +13,7 @@ Here are some of my recent case studies which was given as a project at Digital 
   - An Indepth analysis of product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
     - Tool Used: **Excel**
     - Skills: Pivot tables, calculated fields, dashboards
-  - **Repository Link**:
+  - **Repository Link**: [Amazon Product Review Analysis](https://github.com/david-theking/Amazon-Product-Review-Analysis.git)
 
 ## 📦 Case Study 2: Kultra Mega Stores (KMS) Inventory Business Intelligence Report
 - Analyzed the data provided and presented key insights and findings for the retail supply company
