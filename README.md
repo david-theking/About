@@ -20,7 +20,7 @@ Here are some of my recent case studies which was given as a project at Digital 
     - Tool Used: **SQL Server**
     - Skills: Joins, aggregations, subqueries, business logic
     - Outcome: Strategic insights on sales, customer value, and shipping efficiency
-- **Repository Link**:
+- **Repository Link**: [KMS Inventory Business Intelligence Report](https://github.com/david-theking/-KMS-Inventory-Business-Intelligence-Report.git)
 
 
 ## 📫 Contact
